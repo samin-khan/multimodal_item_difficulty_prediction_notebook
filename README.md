@@ -7,8 +7,11 @@ This work was developed as part of the Stanford course: Data Science and the Sci
 If referencing this work, please cite the associated paper:
 
 Author: Samin Khan 
+
 Title: Using Vision + Language Models to Predict Item Difficulty 
+
 Year: 2026 
+
 URL: https://arxiv.org/abs/2603.04670
 
 ---
