@@ -10,7 +10,7 @@ Author: Samin Khan
 Title: Using Vision + Language Models to Predict Item Difficulty
 Year: 2026
 Venue: arXiv
-URL: 
+URL: https://arxiv.org/abs/2603.04670
 ---
 
 ## Overview
